@@ -12,7 +12,7 @@
   - 👷‍♂️ Connect with me on <a href="https://www.linkedin.com/in/jason-chiarulli-321358143/">LinkedIn</a>
   - 💵 Support us by becoming a Patron on <a href="https://www.patreon.com/codemonkeys?fan_landing=true">Patreon</a>
   - 💰 Send a donation with <a href="https://paypal.me/codemonkeystech?locale.x=en_US">PayPal</a>
-  - 💳 Subscribe on SubscribeStar <a href="https://www.subscribestar.com/code-monkeys">SubscribeStar</a>
+  - 💳 Subscribe on <a href="https://www.subscribestar.com/code-monkeys">SubscribeStar</a>
   - ❤️ Sponsor Me <a href="https://github.com/sponsors/jchiarulli?preview=true">Sponsors Page</a>
 
 - 🔗 Donate Crypto
