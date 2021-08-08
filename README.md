@@ -6,12 +6,12 @@
 
 - 📫 How to reach me:
 
-  - 🐒 Check out the <a style="color: #eb7132" href="https://www.codemonkeys.tech/">Code Monkeys Blog</a>
-  - 🎥 Subscribe to our <a style="color: #eb7132" href="https://www.youtube.com/channel/UCteut5f1PHW8vP29o66z-kg">YouTube Channel</a>
-  - 🤖 Ask questions & engage with the community on <a style="color: #eb7132" href="https://discord.gg/mh9rQmwJ8H">Discord</a> 
-  - 👷‍♂️ Connect with me on <a style="color: #eb7132" href="https://www.linkedin.com/in/jason-chiarulli-321358143/">LinkedIn</a>
-  - 💵 Support me by becoming a Patron on <a style="color: #eb7132" href="https://www.patreon.com/codemonkeys?fan_landing=true">Patreon</a>
-  - 💰 Send a donation with <a style="color: #eb7132" href="https://paypal.me/codemonkeystech?locale.x=en_US">PayPal</a>
+  - 🐒 Check out the <a href="https://www.codemonkeys.tech/">Code Monkeys Blog</a>
+  - 🎥 Subscribe to our <a href="https://www.youtube.com/channel/UCteut5f1PHW8vP29o66z-kg">YouTube Channel</a>
+  - 🤖 Ask questions & engage with the community on <a href="https://discord.gg/mh9rQmwJ8H">Discord</a> 
+  - 👷‍♂️ Connect with me on <a href="https://www.linkedin.com/in/jason-chiarulli-321358143/">LinkedIn</a>
+  - 💵 Support me by becoming a Patron on <a href="https://www.patreon.com/codemonkeys?fan_landing=true">Patreon</a>
+  - 💰 Send a donation with <a href="https://paypal.me/codemonkeystech?locale.x=en_US">PayPal</a>
   
 - 🔗 Donate Crypto
 
