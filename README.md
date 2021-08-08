@@ -1,6 +1,6 @@
 ### Hey Everyone! 👋
 
-- 🔭 I’m currently working on videos, tutorials, blog posts, etc. for Code Monkeys
+- 🔭 I’m currently working on videos, tutorials, blog posts, etc. for <a href="https://github.com/codemonkeysio">Code Monkeys</a>
 
 - 🌱 I’m currently learning VuePress
 
