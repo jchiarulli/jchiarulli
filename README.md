@@ -1,4 +1,4 @@
-### Hey Everyone 👋
+### Hey Everyone! 👋
 
 - 🔭 I’m currently working on videos, tutorials, blog posts, etc. for Code Monkeys
 
@@ -8,7 +8,7 @@
 
   - 🐒 Check out the <a href="https://www.codemonkeys.tech/">Code Monkeys Blog</a>
   - 🎥 Subscribe to our <a href="https://www.youtube.com/channel/UCteut5f1PHW8vP29o66z-kg">YouTube Channel</a>
-  - 🤖 Ask questions & engage with the community on <a href="https://www.youtube.com/channel/UCteut5f1PHW8vP29o66z-kg">Discord</a> 
+  - 🤖 Ask questions & engage with the community on <a href="https://discord.gg/mh9rQmwJ8H">Discord</a> 
   - 👷‍♂️ Connect with me on <a href="https://www.linkedin.com/in/jason-chiarulli-321358143/">LinkedIn</a>
   - 💵 Support me by becoming a Patron on <a href="https://www.patreon.com/codemonkeys?fan_landing=true">Patreon</a>
   - 💰 Send a donation with <a href="https://paypal.me/codemonkeystech?locale.x=en_US">PayPal</a>
@@ -22,3 +22,9 @@
   - Monero (XMR): 8A34PKqqsm5WhjomT2QBzTgtiECqWs2MSZ2vw8RQQMmDiZAtFuTM94AQb2MmM2cUu2BbkKURrUreuLdMVc84vbqWJQ2GGw6
   - Pirate Chain (ARRR): zs1335vuwfnznefrp8llhfsnkldjg4h02d0gmt9s5xwpgq6y3h6fqtv2zr0qvv69e0rjuur5juap3d
   - Dero (DERO): dERoSuaxKdgG6ZYuaw3dJyK3P9cZDFDXb3Ssjqt7fyXEPCBtofw1VMfEw5juDCyDQMG6sjhqSGNszjaiCtSAgikc9QSgDRdcow
+
+<style>
+  a {
+   color: #eb7132;   
+  }
+</style>
