@@ -13,7 +13,7 @@
   - 💵 Support us by becoming a Patron on <a href="https://www.patreon.com/codemonkeys?fan_landing=true">Patreon</a>
   - 💰 Send a donation with <a href="https://paypal.me/codemonkeystech?locale.x=en_US">PayPal</a>
   - 💳 Subscribe on <a href="https://www.subscribestar.com/code-monkeys">SubscribeStar</a>
-  - 💲 Tip us on Venmo <a href="https://venmo.com/code?user_id=3337094999048192411&created=1628623642.5328379&printed=1">Venmo</a>
+  - 💲 Tip us on <a href="https://venmo.com/code?user_id=3337094999048192411&created=1628623642.5328379&printed=1">Venmo</a>
   - ❤️ Sponsor Me <a href="https://github.com/sponsors/jchiarulli?preview=true">Sponsors Page</a>
 
 - 🔗 Donate Crypto
