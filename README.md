@@ -9,6 +9,7 @@
   - 🐒 Check out the <a href="https://www.codemonkeys.tech/">Code Monkeys Blog</a>
   - 🎥 Subscribe to our <a href="https://www.youtube.com/channel/UCteut5f1PHW8vP29o66z-kg">YouTube Channel</a>
   - 🤖 Ask questions & engage with the community on <a href="https://discord.gg/mh9rQmwJ8H">Discord</a>
+  - 🐦 Follow us on <a href="https://twitter.com/codemonkeystech">Twitter</a>
   - 👷‍♂️ Connect with me on <a href="https://www.linkedin.com/in/jason-chiarulli-321358143/">LinkedIn</a>
   - 💵 Support us by becoming a Patron on <a href="https://www.patreon.com/codemonkeys?fan_landing=true">Patreon</a>
   - 💰 Send a donation with <a href="https://paypal.me/codemonkeystech?locale.x=en_US">PayPal</a>
