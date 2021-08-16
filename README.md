@@ -6,7 +6,7 @@
 
 - 📫 How to reach me:
 
-  - 🐒 Check out the <a href="https://www.codemonkeys.tech/">Code Monkeys Blog</a>
+  - 🐒 Check out the <a href="https://www.codemonkeys.tech/" target="_blank" rel="noopener noreferrer">Code Monkeys Blog</a>
   - 🎥 Subscribe to our <a href="https://www.youtube.com/channel/UCteut5f1PHW8vP29o66z-kg">YouTube Channel</a>
   - 🤖 Ask questions & engage with the community on <a href="https://discord.gg/mh9rQmwJ8H">Discord</a>
   - 🐦 Follow us on <a href="https://twitter.com/codemonkeystech">Twitter</a>
