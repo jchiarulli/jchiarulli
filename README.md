@@ -11,7 +11,7 @@
   - 🤖 Ask questions & engage with the community on <a href="https://discord.gg/mh9rQmwJ8H">Discord</a>
   - 🐦 Follow Code Monkeys on <a href="https://twitter.com/codemonkeystech">Twitter</a>
   - 👷‍♂️ Connect with me on <a href="https://www.linkedin.com/in/jason-chiarulli-321358143/">LinkedIn</a>
-  - Follow me on <a href="https://twitter.com/jason_chiarulli">Twitter</a>
+  - 🐦 Follow me on <a href="https://twitter.com/jason_chiarulli">Twitter</a>
   - 💵 Support us by becoming a Patron on <a href="https://www.patreon.com/codemonkeys?fan_landing=true">Patreon</a>
   - 💰 Send a donation with <a href="https://paypal.me/codemonkeystech?locale.x=en_US">PayPal</a>
   - 💳 Subscribe on <a href="https://www.subscribestar.com/code-monkeys">SubscribeStar</a>
