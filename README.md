@@ -36,3 +36,5 @@
   - Pirate Chain (ARRR): zs1335vuwfnznefrp8llhfsnkldjg4h02d0gmt9s5xwpgq6y3h6fqtv2zr0qvv69e0rjuur5juap3d
 
   - Dero (DERO): dERoSuaxKdgG6ZYuaw3dJyK3P9cZDFDXb3Ssjqt7fyXEPCBtofw1VMfEw5juDCyDQMG6sjhqSGNszjaiCtSAgikc9QSgDRdcow
+
+  - Dogecoin (DOGE): DBE6pQQspZ5CsM3UZMJzhHJUJ8kcREwoce
