@@ -16,7 +16,8 @@
   - 💰 Send a donation with <a href="https://paypal.me/codemonkeystech?locale.x=en_US">PayPal</a>
   - 💳 Subscribe on <a href="https://www.subscribestar.com/code-monkeys">SubscribeStar</a>
   - 💲 Tip us on <a href="https://venmo.com/u/codemonkeys">Venmo</a>
-  - ❤️ Sponsor Me <a href="https://github.com/sponsors/jchiarulli">Sponsors Page</a>
+  - 🍌 <a href="https://github.com/sponsors/codemonkeysio">Sponsor Code Monkeys</a>
+  - ❤️ <a href="https://github.com/sponsors/jchiarulli">Sponsor Me</a>
 
 - 🔗 Donate Crypto
 
