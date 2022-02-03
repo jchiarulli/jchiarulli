@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on videos, tutorials, blog posts, etc. for <a href="https://github.com/codemonkeysio">Code Monkeys</a>
 
-- 🌱 I’m currently learning VuePress
+- 🌱 I’m currently learning <a href="https://vuepress.vuejs.org/">VuePress</a>
 
 - 📫 How to reach me:
 
