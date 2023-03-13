@@ -31,7 +31,3 @@
 
   - Monero (XMR): 8A34PKqqsm5WhjomT2QBzTgtiECqWs2MSZ2vw8RQQMmDiZAtFuTM94AQb2MmM2cUu2BbkKURrUreuLdMVc84vbqWJQ2GGw6
 
-  - Pirate Chain (ARRR): zs1335vuwfnznefrp8llhfsnkldjg4h02d0gmt9s5xwpgq6y3h6fqtv2zr0qvv69e0rjuur5juap3d
-
-  - Dero (DERO): dERoSuaxKdgG6ZYuaw3dJyK3P9cZDFDXb3Ssjqt7fyXEPCBtofw1VMfEw5juDCyDQMG6sjhqSGNszjaiCtSAgikc9QSgDRdcow
-
