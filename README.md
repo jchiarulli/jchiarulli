@@ -15,16 +15,13 @@
   - 💡 Speak your mind on <a href="https://www.minds.com/codemonkeys/">Minds</a>
   - 👷‍♂️ Connect with me on <a href="https://www.linkedin.com/in/jason-chiarulli/">LinkedIn</a>
   - 🐦 Follow me on <a href="https://twitter.com/jason_chiarulli">Twitter</a>
-  - 💵 Support us by becoming a Patron on <a href="https://www.patreon.com/codemonkeys?fan_landing=true">Patreon</a>
-  - 💰 Send a donation with <a href="https://paypal.me/codemonkeystech?locale.x=en_US">PayPal</a>
-  - 💳 Subscribe on <a href="https://www.subscribestar.com/code-monkeys">SubscribeStar</a>
-  - 💲 Tip us on <a href="https://venmo.com/u/codemonkeys">Venmo</a>
+
+- Donate
+
   - 🍌 Become a <a href="https://github.com/sponsors/codemonkeysio">Code Monkeys Sponsor</a>
   - ❤️ Sponsor Me <a href="https://github.com/sponsors/jchiarulli">Sponsors Page</a>
-
-- Donate Bitcoin (BTC)
-
-  - ⚠️ Sending Bitcoin to the Wrong Address will Result in Loss of Funds! ⚠️
-  - ✅ Always double check the address & amount before sending! ✅
-
+  - 💵 Subscribe on <a href="https://www.subscribestar.com/code-monkeys">SubscribeStar</a>
+  - 💳 Support us by becoming a Patron on <a href="https://www.patreon.com/codemonkeys?fan_landing=true">Patreon</a>
+  - 💰 Send a donation with <a href="https://paypal.me/codemonkeystech?locale.x=en_US">PayPal</a>
+  - 💲 Tip us on <a href="https://venmo.com/u/codemonkeys">Venmo</a>
   - ₿ Bitcoin (BTC): bc1q78he85fe63krgsjn6sayy7pna4aeg2ylge2jcj
