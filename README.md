@@ -22,9 +22,9 @@
   - 🍌 Become a <a href="https://github.com/sponsors/codemonkeysio">Code Monkeys Sponsor</a>
   - ❤️ Sponsor Me <a href="https://github.com/sponsors/jchiarulli">Sponsors Page</a>
 
-- 🔗 Donate Crypto
+- Donate Bitcoin (BTC)
 
-  - ⚠️ Sending Crypto to the Wrong Address will Result in Loss of Funds! ⚠️
+  - ⚠️ Sending Bitcoin to the Wrong Address will Result in Loss of Funds! ⚠️
   - ✅ Always double check the address & amount before sending! ✅
 
-  - Bitcoin (BTC): bc1q78he85fe63krgsjn6sayy7pna4aeg2ylge2jcj
+  - ₿ Bitcoin (BTC): bc1q78he85fe63krgsjn6sayy7pna4aeg2ylge2jcj
