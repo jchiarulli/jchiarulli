@@ -28,6 +28,3 @@
   - ✅ Always double check the address & amount before sending! ✅
 
   - Bitcoin (BTC): bc1q78he85fe63krgsjn6sayy7pna4aeg2ylge2jcj
-
-  - Monero (XMR): 8A34PKqqsm5WhjomT2QBzTgtiECqWs2MSZ2vw8RQQMmDiZAtFuTM94AQb2MmM2cUu2BbkKURrUreuLdMVc84vbqWJQ2GGw6
-
