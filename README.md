@@ -24,4 +24,9 @@
   - 💳 Support us by becoming a Patron on <a href="https://www.patreon.com/codemonkeys?fan_landing=true">Patreon</a>
   - 💰 Send a donation with <a href="https://paypal.me/codemonkeystech?locale.x=en_US">PayPal</a>
   - 💲 Tip us on <a href="https://venmo.com/u/codemonkeys">Venmo</a>
-  - ₿ Bitcoin (BTC): bc1q78he85fe63krgsjn6sayy7pna4aeg2ylge2jcj
+
+  - 🤖 Instead of using the static Bitcoin address below, improve your privacy by using a <a href="https://paynym.is/">PayNym</a>!
+  - PayNym: <a href="https://paynym.is/+blackviolet838">+blackviolet838</a>
+  - Payment Code: PM8TJf7wdgnWbAdnwbgTMY8ic3UZ2LFvkSJxuFtK4JwXSKFmqys1iL964UX55fGKfqZXfTdVjK1Z3FwbgTPbmEp2ErGPVaXZds8v9YUBxgfqvoQUBF2X
+
+  - ₿ Bitcoin (BTC): bc1q5rsnx4d320jtuvdf0k8kkmgjzfnac95gphyznn
