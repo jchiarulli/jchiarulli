@@ -45,3 +45,5 @@
   - Payment Code: PM8TJf7wdgnWbAdnwbgTMY8ic3UZ2LFvkSJxuFtK4JwXSKFmqys1iL964UX55fGKfqZXfTdVjK1Z3FwbgTPbmEp2ErGPVaXZds8v9YUBxgfqvoQUBF2X
 
   - ₿ Bitcoin (BTC): bc1q5rsnx4d320jtuvdf0k8kkmgjzfnac95gphyznn
+
+  - Monero (XMR): 89DRhZtKrfPS5yuMcFoivqBCuXs19qRnChXn5VKGeYDG457WHFcGoWbQXqW92Gah2mZFChLCkV5Cfc6zcwFwmz9zN8GRuDF
