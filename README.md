@@ -14,6 +14,8 @@
 
   - 📨 Join our <a href="https://t.me/codemonkeystech">Telegram</a>
 
+  - 🔑 Securely message with <a href="https://keybase.io/codemonkeystech">Keybase</a>
+
   - 🐦 Follow Code Monkeys on <a href="https://twitter.com/codemonkeystech">Twitter</a>
 
   - 🐸 Let's <a href="https://gab.com/codemonkeys">Gab</a>
@@ -23,6 +25,8 @@
   - 👷‍♂️ Connect with me on <a href="https://www.linkedin.com/in/jason-chiarulli/">LinkedIn</a>
 
   - 🐦 Follow me on <a href="https://twitter.com/jason_chiarulli">Twitter</a>
+
+  - 🔐 PGP Fingerprint: B7E6 FB94 A589 876C CFC2 1E4B 1E07 E75C 19F1 AE0E
 
 - Donate
 
