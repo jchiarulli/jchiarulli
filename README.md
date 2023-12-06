@@ -10,8 +10,6 @@
 
   - 🎥 Subscribe to our <a href="https://www.youtube.com/channel/UCteut5f1PHW8vP29o66z-kg">YouTube Channel</a>
 
-  - 🤖 Ask questions & engage with the community on <a href="https://discord.gg/mh9rQmwJ8H">Discord</a>
-
   - 📨 Join our <a href="https://t.me/codemonkeystech">Telegram</a>
 
   - 🔑 Securely message with <a href="https://keybase.io/codemonkeystech">Keybase</a>
@@ -24,7 +22,7 @@
 
   - 👷‍♂️ Connect with me on <a href="https://www.linkedin.com/in/jason-chiarulli/">LinkedIn</a>
 
-  - 🐦 Follow me on <a href="https://twitter.com/jason_chiarulli">Twitter</a>
+  - 🐦 Follow me on <a href="https://twitter.com/jthecodemonkey">Twitter</a>
 
   - 🔐 PGP Fingerprint: B7E6 FB94 A589 876C CFC2 1E4B 1E07 E75C 19F1 AE0E
 
