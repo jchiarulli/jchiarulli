@@ -36,8 +36,6 @@
 
   - 💳 Support us by becoming a Patron on <a href="https://www.patreon.com/codemonkeys?fan_landing=true">Patreon</a>
 
-  - 💰 Send a donation with <a href="https://paypal.me/codemonkeystech?locale.x=en_US">PayPal</a>
-
   - 💲 Tip us on <a href="https://venmo.com/u/codemonkeys">Venmo</a>
 
   - 🤖 Instead of using the static Bitcoin address below, improve your privacy by using a <a href="https://paynym.is/">PayNym</a>!
