@@ -20,8 +20,6 @@
 
   - 💡 Speak your mind on <a href="https://www.minds.com/codemonkeys/">Minds</a>
 
-  - 👷‍♂️ Connect with me on <a href="https://www.linkedin.com/in/jason-chiarulli/">LinkedIn</a>
-
   - 🐦 Follow me on <a href="https://twitter.com/jthecodemonkey">Twitter</a>
 
   - 🔐 PGP Fingerprint: B7E6 FB94 A589 876C CFC2 1E4B 1E07 E75C 19F1 AE0E
@@ -33,8 +31,6 @@
   - ❤️ Sponsor Me <a href="https://github.com/sponsors/jchiarulli">Sponsors Page</a>
 
   - 💵 Subscribe on <a href="https://www.subscribestar.com/code-monkeys">SubscribeStar</a>
-
-  - 💳 Support us by becoming a Patron on <a href="https://www.patreon.com/codemonkeys?fan_landing=true">Patreon</a>
 
   - 🤖 Instead of using the static Bitcoin address below, improve your privacy by using a <a href="https://paynym.is/">PayNym</a>!
 
