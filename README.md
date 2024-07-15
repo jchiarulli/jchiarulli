@@ -1,8 +1,8 @@
 ### Hey Everyone! 👋
 
-- 🔭 I’m currently working on videos, tutorials, blog posts, etc. for <a href="https://github.com/codemonkeysio">Code Monkeys</a>
+- 🔭 I’m currently working on videos, tutorials, blog posts, etc. for <a href="https://github.com/codemonkeysio">Code Monkeys</a> and for <a href="https://github.com/nodetec">NODE-TEC</a>
 
-- 🌱 I’m currently learning <a href="https://vuepress.vuejs.org/">VuePress</a>
+- 🌱 I’m currently learning <a href="https://wails.io/">Wails</a>
 
 - 📫 How to reach me:
 
@@ -10,9 +10,9 @@
 
   - 🎥 Subscribe to our <a href="https://www.youtube.com/channel/UCteut5f1PHW8vP29o66z-kg">YouTube Channel</a>
 
-  - 📨 Join our <a href="https://t.me/codemonkeystech">Telegram</a>
-
   - 🔑 Securely message with <a href="https://keybase.io/codemonkeystech">Keybase</a>
+
+  - 📨 Join our <a href="https://t.me/codemonkeystech">Telegram</a>
 
   - 🐦 Follow Code Monkeys on <a href="https://twitter.com/codemonkeystech">Twitter</a>
 
