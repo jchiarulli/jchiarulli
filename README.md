@@ -1,6 +1,6 @@
 ### Hey Everyone! 👋
 
-- 🔭 I’m currently working on videos, tutorials, blog posts, etc. for <a href="https://github.com/codemonkeysio">Code Monkeys</a> and for <a href="https://github.com/nodetec">NODE-TEC</a>
+- 🔭 I’m currently working on videos, tutorials, blog posts, etc. for <a href="https://github.com/codemonkeysio">Code Monkeys</a> and <a href="https://github.com/nodetec">NODE-TEC</a>
 
 - 🌱 I’m currently learning <a href="https://wails.io/">Wails</a>
 
