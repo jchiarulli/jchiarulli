@@ -8,7 +8,7 @@
 
   - 🐒 Check out the <a href="https://www.codemonkeys.tech/">Code Monkeys Blog</a>
 
-  - 🎥 Subscribe to our <a href="https://www.youtube.com/channel/UCteut5f1PHW8vP29o66z-kg">YouTube Channel</a>
+  - 🎥 Subscribe to our <a href="https://www.youtube.com/@codemonkeystech">YouTube Channel</a>
 
   - 🔑 Securely message with <a href="https://keybase.io/codemonkeystech">Keybase</a>
 
