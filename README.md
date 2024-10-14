@@ -20,9 +20,11 @@
 
   - 💡 Speak your mind on <a href="https://www.minds.com/codemonkeys/">Minds</a>
 
+  - 🪶 npub: `npub1zn559gr2vwyex2s2mt2s7x5r5ryjeyy0zwy2zx3ckp6ktwpe4p4spgt84e`
+
   - 🐦 Follow me on <a href="https://twitter.com/jthecodemonkey">Twitter</a>
 
-  - 🔐 PGP Fingerprint: B7E6 FB94 A589 876C CFC2 1E4B 1E07 E75C 19F1 AE0E
+  - 🔐 PGP Fingerprint: `B7E6 FB94 A589 876C CFC2 1E4B 1E07 E75C 19F1 AE0E`
 
 - Donate
 
