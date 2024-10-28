@@ -20,11 +20,19 @@
 
   - 💡 Speak your mind on <a href="https://www.minds.com/codemonkeys/">Minds</a>
 
-  - 🦩 npub: `npub1zn559gr2vwyex2s2mt2s7x5r5ryjeyy0zwy2zx3ckp6ktwpe4p4spgt84e`
+  - 🦩 npub:
+
+  ```bash
+  npub1zn559gr2vwyex2s2mt2s7x5r5ryjeyy0zwy2zx3ckp6ktwpe4p4spgt84e
+  ```
 
   - 🐦 Follow me on <a href="https://twitter.com/jthecodemonkey">Twitter</a>
 
-  - 🔐 PGP Fingerprint: `B7E6 FB94 A589 876C CFC2 1E4B 1E07 E75C 19F1 AE0E`
+  - 🔐 PGP Fingerprint:
+
+  ```bash
+  B7E6 FB94 A589 876C CFC2 1E4B 1E07 E75C 19F1 AE0E
+  ```
 
 - Donate
 
@@ -38,8 +46,20 @@
 
   - PayNym: <a href="https://paynym.is/+blackviolet838">+blackviolet838</a>
 
-  - Payment Code: PM8TJf7wdgnWbAdnwbgTMY8ic3UZ2LFvkSJxuFtK4JwXSKFmqys1iL964UX55fGKfqZXfTdVjK1Z3FwbgTPbmEp2ErGPVaXZds8v9YUBxgfqvoQUBF2X
+  - Payment Code:
 
-  - ₿ Bitcoin (BTC): bc1q5rsnx4d320jtuvdf0k8kkmgjzfnac95gphyznn
+  ```bash
+  PM8TJf7wdgnWbAdnwbgTMY8ic3UZ2LFvkSJxuFtK4JwXSKFmqys1iL964UX55fGKfqZXfTdVjK1Z3FwbgTPbmEp2ErGPVaXZds8v9YUBxgfqvoQUBF2X
+  ```
 
-  - Monero (XMR): 89DRhZtKrfPS5yuMcFoivqBCuXs19qRnChXn5VKGeYDG457WHFcGoWbQXqW92Gah2mZFChLCkV5Cfc6zcwFwmz9zN8GRuDF
+  - ₿ Bitcoin (BTC):
+
+  ```bash
+  bc1q5rsnx4d320jtuvdf0k8kkmgjzfnac95gphyznn
+  ```
+
+  - Monero (XMR):
+
+  ```bash
+  89DRhZtKrfPS5yuMcFoivqBCuXs19qRnChXn5VKGeYDG457WHFcGoWbQXqW92Gah2mZFChLCkV5Cfc6zcwFwmz9zN8GRuDF
+  ```
